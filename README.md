@@ -1,7 +1,6 @@
 ## Hello there, welcome to Morris' Github page!👋
 ### 💁‍♂️ About me:
-- 👨‍💻 I'm a second year Co-op student at UofT specializing in Computer Science and minoring in Economics
-- 🔭 I’m currently working on building my own website
+- 👨‍💻 I'm a third year Co-op student at UofT specializing in Computer Science and minoring in Economics
 - 🌱 I’m currently learning frontend tools to further my understanding in frontend development
 - 💬 Ask me about anything! I'm open to new ideas and love discussing about it!
 - 📫 How to reach me: morrisho215215@gmail.com / morris.ho@mail.utoronto.ca
